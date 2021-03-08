@@ -66,5 +66,5 @@ Routes:
 
 ## Results:
 
-![Example](images/percipitation.png)
+![Example](images/precipitation.png)
 ![Example](images/station-histogram.png)
